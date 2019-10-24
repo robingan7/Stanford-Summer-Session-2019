@@ -1,0 +1,7 @@
+as::=gh er|rt
+df::=asd|er yu
+qw::=rr|dd|vv
+er::=asd|fdg|dfg
+rt::=t5
+yu::=qw|df
+gh::=yu er|rt
